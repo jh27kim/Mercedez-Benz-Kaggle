@@ -10,3 +10,10 @@ Encode Categorical Features
 
 Merge the two dataset and perform Regression
 
+2. Second Attempt
+
+Stacking then averaged
+
+XGBoost 
+
+
