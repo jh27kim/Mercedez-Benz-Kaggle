@@ -16,7 +16,16 @@ Merge the two dataset and perform Regression
 
 Embed Categorical Features using Label Encoder
 
-<br> </br>
+Perform Dimensionality Reduction & Add to the Dataset
+
+1) Fit XGBoost on the entire Dataset
+
+2) Perform Stacking 
+
+Average 1) + 2)
+
+
+
 <br> </br>
 
 R2 Score = Coefficient of Determination = 1 - SSE/SST
