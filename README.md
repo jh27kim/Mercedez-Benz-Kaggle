@@ -1,6 +1,6 @@
 # Mercedez-Benz-Kaggle
 
-1. First Attempt
+1. First Attempt: PCA + Bagging
 
 Set apart Categorical Features
 
@@ -10,10 +10,12 @@ Encode Categorical Features
 
 Merge the two dataset and perform Regression
 
-2. Second Attempt
 
-Stacking then averaged
 
-XGBoost 
+2. Second Attempt: Stacking + XGB
+
+Embed Categorical Features using Label Encoder
+
+<strong> R2 </strong>
 
 
